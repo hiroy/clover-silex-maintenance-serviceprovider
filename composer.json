@@ -1,0 +1,26 @@
+{
+  "name": "clover/silex-maintenance-serviceprovider",
+  "type": "library",
+  "description": "Prividing the maintenance window for the application build with Silex.",
+  "keywords": ["silex", "serviceprovider"],
+  "homepage": "https://github.com/hiroy/clover-silex-maintenance-serviceprovider",
+  "license": "BSD-2-Clause",
+  "authors": [
+    {
+      "name": "Hiroyuki Yamaoka",
+      "email": "yamaoka@428lab.jp"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.3",
+    "silex/silex": "1.1.*-dev"
+  },
+  "autoload": {
+    "psr-0": { "Clover": "lib/" }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0-dev"
+    }
+  }
+}
