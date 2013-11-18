@@ -8,14 +8,14 @@ use Symfony\Component\HttpFoundation\Response;
 /**
  * Usage:
  *
- * $app->register(Clover\Silex\ServiceProvider\MaintenanceServiceProvider([
+ * $app->register(Clover\Silex\Provider\MaintenanceServiceProvider([
  *     'lock' => __DIR__ . '/../maintenance',
  *     'html' => __DIR__ . '/../web/maintenance.html',
  * ]));
  *
  * or
  *
- * $app->register(Clover\Silex\ServiceProvider\MaintenanceServiceProvider([
+ * $app->register(Clover\Silex\Provider\MaintenanceServiceProvider([
  *     'lock' => __DIR__ . '/../maintenance',
  *     'twig_template' => 'maintenance.html',
  * ]));
