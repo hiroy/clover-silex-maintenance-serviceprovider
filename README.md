@@ -1,2 +1,2 @@
-clover-silex-maintenance-serviceprovider
-========================================
+Clover\Silex\Provider\MaintenanceServiceProvider
+================================================
