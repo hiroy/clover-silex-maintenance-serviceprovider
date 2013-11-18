@@ -1,7 +1,7 @@
 {
   "name": "clover/silex-maintenance-serviceprovider",
   "type": "library",
-  "description": "Prividing the maintenance window for the application build with Silex.",
+  "description": "Providing the maintenance window for the application build with Silex.",
   "keywords": ["silex", "serviceprovider"],
   "homepage": "https://github.com/hiroy/clover-silex-maintenance-serviceprovider",
   "license": "BSD-2-Clause",
