@@ -11,6 +11,10 @@
       "email": "yamaoka@428lab.jp"
     }
   ],
+  "support": {
+    "issues": "https://github.com/hiroy/clover-silex-maintenance-serviceprovider/issues",
+    "source": "https://github.com/hiroy/clover-silex-maintenance-serviceprovider"
+  },
   "require": {
     "php": ">=5.3.3",
     "silex/silex": "1.1.*-dev"
